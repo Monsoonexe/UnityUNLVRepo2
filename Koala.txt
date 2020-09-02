@@ -10,7 +10,7 @@ public void Adder(int x, int y)
 	//a function
 }
 
-public void ChangeUIColors()
+public void saveKoalas()
 {
 	//this might break the program.
 }
