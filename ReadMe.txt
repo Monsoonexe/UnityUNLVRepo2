@@ -4,3 +4,8 @@ for(int i = 0; i < 100; ++i)
 {
 	//loop 100 times
 }
+
+public void Adder(int x, int y)
+{
+	//a function
+}
