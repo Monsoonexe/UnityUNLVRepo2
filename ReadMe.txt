@@ -9,3 +9,8 @@ public void Adder(int x, int y)
 {
 	//a function
 }
+
+public void ChangeUIColors()
+{
+	//this might break the program.
+}
